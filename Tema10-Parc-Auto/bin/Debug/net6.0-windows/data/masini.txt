@@ -1,0 +1,6 @@
+﻿audi,coupe,12344,1992
+bmw,suv,34903,2009
+dacia,sedan,23000,2020
+ford,suv,70000,2007
+opel,suv,235555,2008
+ferrari,suv,40000,1999
