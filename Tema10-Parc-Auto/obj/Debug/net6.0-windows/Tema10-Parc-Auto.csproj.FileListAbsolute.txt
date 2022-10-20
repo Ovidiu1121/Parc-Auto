@@ -16,3 +16,7 @@ C:\Data\programre-vizuala-csharp\Teme\Tema10-Parc-Auto\Tema10-Parc-Auto\obj\Debu
 C:\Data\programre-vizuala-csharp\Teme\Tema10-Parc-Auto\Tema10-Parc-Auto\obj\Debug\net6.0-windows\Tema10-Parc-Auto.pdb
 C:\Data\programre-vizuala-csharp\Teme\Tema10-Parc-Auto\Tema10-Parc-Auto\obj\Debug\net6.0-windows\Tema10-Parc-Auto.genruntimeconfig.cache
 C:\Data\programre-vizuala-csharp\Teme\Tema10-Parc-Auto\Tema10-Parc-Auto\obj\Debug\net6.0-windows\Tema10_Parc_Auto.MockupMain.resources
+C:\Data\programre-vizuala-csharp\Teme\Tema10-Parc-Auto\Tema10-Parc-Auto\obj\Debug\net6.0-windows\Tema10_Parc_Auto.MockupManageVehicle.resources
+C:\Data\programre-vizuala-csharp\Teme\Tema10-Parc-Auto\Tema10-Parc-Auto\obj\Debug\net6.0-windows\Tema10_Parc_Auto.MockupAddVehicle.resources
+C:\Data\programre-vizuala-csharp\Teme\Tema10-Parc-Auto\Tema10-Parc-Auto\obj\Debug\net6.0-windows\Tema10_Parc_Auto.MockupVehicleCategory.resources
+C:\Data\programre-vizuala-csharp\Teme\Tema10-Parc-Auto\Tema10-Parc-Auto\obj\Debug\net6.0-windows\Tema10_Parc_Auto.Mockups.MockupUpdate.resources

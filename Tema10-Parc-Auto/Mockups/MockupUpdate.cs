@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tema10_Parc_Auto
+namespace Tema10_Parc_Auto.Mockups
 {
-    public partial class MockupMain : Form
+    public partial class MockupUpdate : Form
     {
-        public MockupMain()
+        public MockupUpdate()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

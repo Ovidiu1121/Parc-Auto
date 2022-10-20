@@ -5,10 +5,40 @@
     <Compile Update="FrmHome.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Mockups\MockupAddVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mockups\MockupManageVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Mockups\MockupMain.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Mockups\MockupUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mockups\MockupVehicleCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Panels\PnlAside.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Panels\PnlHeader.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Panels\PnlHeader2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Panels\PnlManageVehicle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Panels\PnlMain.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Panels\PnlAddVhicle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Panels\PnlVehicleCategory.cs">
       <SubType>Component</SubType>
     </Compile>
   </ItemGroup>

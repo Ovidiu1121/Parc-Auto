@@ -14,16 +14,24 @@ namespace Tema10_Parc_Auto
     {
 
         public Panel aside;
+        public Panel header;
+        public Panel header2;
+        public Panel activeMainPanel;
 
         public FrmHome()
         {
             InitializeComponent();
 
             this.aside=new PnlAside(this);
+            this.header=new PnlHeader(this);
+            this.header2=new PnlHeader2(this);
+            this.activeMainPanel=new PnlMain(this);
 
 
+            this.Controls.Add(this.header2);
             this.Controls.Add(this.aside);
-
+            this.Controls.Add(this.header);
+            this.Controls.Add(this.activeMainPanel);
         }
     }
 }

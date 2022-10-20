@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace Tema10_Parc_Auto
 {
-    public partial class MockupMain : Form
+    public partial class MockupVehicleCategory : Form
     {
-        public MockupMain()
+        public MockupVehicleCategory()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }
